@@ -1,6 +1,6 @@
 
 
-:computer:	 I am a Natural Language Processing engineer, currently working on pseudonymisation. \
+:computer:	 I am a PhD student in NLP, working on coreference resolution for pseudonymisation. \
 :snake:	I am mostly interested in Machine Learning, Deep Learning, coreference resolution, linguistic analysis, explainability...  \
 :game_die: I like board games, role playing games and video games. \
 :email: You can reach me at : [email](mailto:maelle.brassier@gmail.com)
